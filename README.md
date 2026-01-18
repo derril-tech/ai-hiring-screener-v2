@@ -1,8 +1,6 @@
 # 🎯 CrewAI HiringScreener
 **Multi-Agent AI Candidate Screening**
 
-🌐 **[View Live Application](https://ai-hiring-screener.vercel.app/)**
-
 > **Screen candidates in minutes, not days.** Paste a job description and candidate profile, and get a structured, fair, and actionable scorecard—powered by a crew of specialized AI agents. ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -250,9 +248,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-
-
-[Live Demo](https://ai-hiring-screener.vercel.app/) 
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
